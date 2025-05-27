@@ -26,10 +26,10 @@
 ![Timing Usage Demo](https://timingapp.com/screens/full_usage_demo.gif)  
 *Animated demo showing Timing’s time tracking in action.*
 
-![Timing Icon](https://timingapp.com/img/icon2.png)  
+![Timing Icon](https://timingapp.com/screens/activities_unified.png)  
 *Official Timing app icon.*
 
-![Timing Activities Overview](https://timingapp.com/screens/activities_unified.png)  
+![Timing Activities Overview](https://timingapp.com/img/icon2.png)  
 *Unified activities view for better productivity insights.*
 
 🔍 SEO Keywords
